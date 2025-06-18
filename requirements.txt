@@ -1,0 +1,10 @@
+aiogram==3.10.0
+youtube-search-python==1.6.6
+yt-dlp
+python-dotenv
+aiosqlite
+cachetools
+lyricsgenius 
+python-Levenshtein
+pydub
+а
